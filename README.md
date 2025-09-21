@@ -7,7 +7,8 @@ Group 5:
 4) Josh Tesnar
 ## Scenario Description
 ## Data Model
-![image of data model](<img width="1344" height="768" alt="schema " src="https://github.com/user-attachments/assets/488258d7-4ea9-4e24-a021-586b3c6bcd14" />)
+![image of data model](<img width="1235" height="659" alt="Screenshot 2025-09-21 at 2 52 02 PM" src="https://github.com/user-attachments/assets/b322dbf1-847e-4d14-b6f6-b57af839ab05" />
+)
 
 ## Data Dictionary
 ## Ten Queries
