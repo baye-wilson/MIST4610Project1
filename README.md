@@ -1,8 +1,8 @@
 # MIST4610Project1
 ## Team name and Members
-Group 5:
+Fantastic Four:
 1) Tyler Meyer
-2) Baye Wilson
+2) Baye Wilson @baye-wilson
 3) Will Hooks
 4) Josh Tesar @JoshTesar04
 ## Scenario Description
