@@ -7,8 +7,8 @@ Group 5:
 4) Josh Tesar @JoshTesar04
 ## Scenario Description
 ## Data Model
-![image of data model](<img width="1235" height="659" alt="Screenshot 2025-09-21 at 2 52 02 PM" src="https://github.com/user-attachments/assets/b322dbf1-847e-4d14-b6f6-b57af839ab05" />
-)
+<img width="929" height="412" alt="Screenshot 2025-09-21 at 3 11 12 PM" src="https://github.com/user-attachments/assets/8d41d124-2744-4f97-be75-e266f5680829" />
+
 
 ## Data Dictionary
 ## Ten Queries
