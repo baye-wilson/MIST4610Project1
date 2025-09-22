@@ -81,3 +81,8 @@ This might be helpful to a manager who is looking to analyze how different above
 
 
 ## Database Information
+<img width="663" height="444" alt="Screenshot 2025-09-22 at 7 40 02 PM" src="https://github.com/user-attachments/assets/a223698e-98a3-43de-80cc-789048af3570" />
+
+Please refer to br_wah54338
+
+All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
