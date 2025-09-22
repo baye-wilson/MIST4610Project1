@@ -39,6 +39,11 @@ This helps identify which actors provide the most success for sales across multi
 
 4.
 This query lists all actors along with how many years they’ve been acting, sorted so the most experienced actors appear first.
-<img width="1932" height="992" alt="image" src="https://github.com/user-attachments/assets/b7f95389-57f2-496d-9c9a-e1fc05546fe9" />
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/b7f95389-57f2-496d-9c9a-e1fc05546fe9" />
 This allows managers or casting directors to quickly identify the most seasoned actors in the database.
+
+5. This query compares each movie’s total box office sales with its production budget to calculate profit and return on investment (ROI).
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/a732947b-f189-48e6-8c38-2c162be74a26" />
+This analysis highlights which films were the most financially efficient, not just in terms of revenue but also relative to how much they cost to make. Studios and investors can use this information to learn which types of films deliver the strongest returns and to guide future budgeting and production decisions.
+
 ## Database Information
