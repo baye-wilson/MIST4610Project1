@@ -2,7 +2,7 @@
 ## Team name and Members
 Fantastic Four:
 1) Tyler Meyer
-2) Baye Wilson @baye-wilson
+2) Baye Wilson [@baye-wilson](https://github.com/bay-wilson)
 3) Will Hooks
 4) Josh Tesar [@joshtesar04](https://github.com/joshtesar04)
 ## Scenario Description
