@@ -21,7 +21,9 @@ Our movie database provides a centralized system for managing and streamlining o
 
 
 ## Ten Queries
-<img width="1966" height="1344" alt="image" src="https://github.com/user-attachments/assets/eb0e2a40-c811-4b41-bed6-7931f85e8b46" />
+1. This query finds the average box office sales for each director and only includes directors whose movies have earned more than $10 million on average. It groups the data by director and calculates both the number of movies directed and the average total sales of those movies. The results are then ordered so the highest-earning directors appear first.
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/eb0e2a40-c811-4b41-bed6-7931f85e8b46" />
+This query helps identify which directors consistently create financially successful films. By filtering for directors with an average above $10 million, managers or studios can easily see which directors are the most profitable.
 
 ### Query Matrix
 ## Database Information
