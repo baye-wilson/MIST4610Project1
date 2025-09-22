@@ -37,5 +37,4 @@ This helps users quickly see the timeline of movie releases, which can be useful
 
 This helps identify which actors provide the most success for sales across multiple projects. Producers and studios can use this information to prioritize these higher earning actors in future films, ensuring stronger ticket sales and more of an audience appeal.
 
-### Query Matrix
 ## Database Information
