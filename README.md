@@ -65,8 +65,9 @@ This helps highlight the most successful collaborations between directors and ac
    <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/8b0df179-0775-45b9-854c-ffdfd8a853ff" />
 This helps identify the most expensive films in the database, which can be useful when comparing them to less highly budgeted films.
 
-8.
+8. This query finds each actor with the movie they earned the most from. Then, it joins the tables together and uses a correlated subquery to determine the highest total sales for that actor. Only the movies that match this maximum sales value for each actor are returned, and the results are ordered from highest to lowest grossing movies.
 <img width="606" height="558" alt="Screenshot 2025-09-22 at 6 48 40 PM" src="https://github.com/user-attachments/assets/31fe85f2-7ca4-4ec2-9eba-da97de892495" />
+
 
 9.
 <img width="452" height="439" alt="Screenshot 2025-09-22 at 6 48 13 PM" src="https://github.com/user-attachments/assets/46a6b8be-8699-4512-a7d9-f2311351343a" />
