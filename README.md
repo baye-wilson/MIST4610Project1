@@ -37,4 +37,8 @@ This helps users quickly see the timeline of movie releases, which can be useful
 
 This helps identify which actors provide the most success for sales across multiple projects. Producers and studios can use this information to prioritize these higher earning actors in future films, ensuring stronger ticket sales and more of an audience appeal.
 
+4.
+This query lists all actors along with how many years they’ve been acting, sorted so the most experienced actors appear first.
+<img width="1932" height="992" alt="image" src="https://github.com/user-attachments/assets/b7f95389-57f2-496d-9c9a-e1fc05546fe9" />
+This allows managers or casting directors to quickly identify the most seasoned actors in the database.
 ## Database Information
