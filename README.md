@@ -70,6 +70,7 @@ This helps identify the most expensive films in the database, which can be usefu
 
 9.
 <img width="452" height="439" alt="Screenshot 2025-09-22 at 6 48 13 PM" src="https://github.com/user-attachments/assets/46a6b8be-8699-4512-a7d9-f2311351343a" />
+
 10.
   <img width="545" height="476" alt="Screenshot 2025-09-22 at 6 47 36 PM" src="https://github.com/user-attachments/assets/3a13475f-0733-44f6-a46a-e4407ca41634" />
 
