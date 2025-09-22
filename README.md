@@ -9,6 +9,14 @@ Fantastic Four:
 Our movie database provides a centralized system for managing and streamlining operations of the film industry. The database enables the tracking of essential components to movies including actors, budgets, sales, directors, and release dates. By consolidating all of this data into one database, we are able to simplify the process of extracting data and creating relationships between these different components. We is able to provide valuable insights for the film industry by observing patterns and trends that lead to box office success. Overall, our database aims to support the access to information for the film industry and foster better fact-based decision making.
 ## Data Model
 <img width="929" height="412" alt="Screenshot 2025-09-21 at 3 11 12 PM" src="https://github.com/user-attachments/assets/8d41d124-2744-4f97-be75-e266f5680829" />
+### Description of Model 
+Our key fact table is the movies table; basically the actual films you’d see at the theater. Think of it like the center of the model. Just like how the credits roll at the end of a movie showing all the different people and pieces that came together, our movie table connects out to the different supporting entities like directors, actors, and sales.
+
+Each movie also has sales tied directly to it like total box office and tickets sold, that information traces back to the single movie_id. 
+
+We also ran into many-to-many cases. The obvious one is the cast. Instead of stuffing all the actors into the movies table (which would’ve made it messy and repetitive), we created a bridge table called movie_cast. That table links a movie to its actors using movie_id and actor_id. To keep things clean, actor details (like name and years acting) live in the separate actors table. This way, movie_cast just handles the connection, while actors holds the actual data about each person. 
+
+By splitting it out like this, the model avoids redundancies, keeps the main movies table slim, and makes querying more efficient. It also gives us flexibility to now write queries that explore trends like “Do certain directors consistently have higher sales?” or “Which actors tend to appear in top grossing films?” The structure makes those insights possible without overloading any single table.
 
 
 ## Data Dictionary
