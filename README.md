@@ -12,7 +12,8 @@ Our movie database provides a centralized system for managing and streamlining o
 
 
 ## Data Dictionary
-<img width="664" height="262" alt="Screenshot 2025-09-22 at 11 51 27 AM" src="https://github.com/user-attachments/assets/5e367f62-7e8e-48ad-8aed-fb3faf62efa5" />
+<img width="652" height="275" alt="Screenshot 2025-09-22 at 12 35 20 PM" src="https://github.com/user-attachments/assets/ba2910de-3f50-4e84-bcb6-c572629a7044" />
+
 <img width="654" height="414" alt="Screenshot 2025-09-22 at 11 51 42 AM" src="https://github.com/user-attachments/assets/28106eb2-80cf-4769-a692-88cfdfd9e8ae" />
 <img width="658" height="272" alt="Screenshot 2025-09-22 at 11 51 54 AM" src="https://github.com/user-attachments/assets/47e6c67e-9565-4a26-ae12-4ae75747ef9e" />
 <img width="658" height="283" alt="Screenshot 2025-09-22 at 11 52 02 AM" src="https://github.com/user-attachments/assets/7af81405-be5b-4bd0-b3dc-0f57f59355cb" />
