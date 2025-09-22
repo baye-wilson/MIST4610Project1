@@ -10,7 +10,7 @@ Our movie database provides a centralized system for managing and streamlining o
 ## Data Model
 <img width="929" height="412" alt="Screenshot 2025-09-21 at 3 11 12 PM" src="https://github.com/user-attachments/assets/8d41d124-2744-4f97-be75-e266f5680829" />
 
-## Description of said Model
+### Description of said Model
 Our key fact table is the movies table; basically the actual films you’d see at the theater. Think of it like the center of the model. Just like how the credits roll at the end of a movie showing all the different people and pieces that came together, our movie table connects out to the different supporting entities like directors, actors, and sales.
 
 Each movie also has sales tied directly to it like total box office and tickets sold, that information traces back to the single movie_id. 
