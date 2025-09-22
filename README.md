@@ -13,5 +13,7 @@ Our movie database provides a centralized system for managing and streamlining o
 
 ## Data Dictionary
 ## Ten Queries
+<img width="1966" height="1344" alt="image" src="https://github.com/user-attachments/assets/eb0e2a40-c811-4b41-bed6-7931f85e8b46" />
+
 ### Query Matrix
 ## Database Information
