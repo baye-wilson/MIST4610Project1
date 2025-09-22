@@ -26,5 +26,10 @@ Our movie database provides a centralized system for managing and streamlining o
 
 This query helps identify which directors consistently create financially successful films. By filtering for directors with an average above $10 million, managers or studios can easily see which directors are the most profitable.
 
+2. This query lists all movies in the database in the order they were released, starting with the earliest.
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/08d95b10-8b5a-49e0-9846-76c2bbe483c9" />
+
+This helps users quickly see the timeline of movie releases, which can be useful for analyzing trends or understanding how the catalog of films has developed over time.
+
 ### Query Matrix
 ## Database Information
