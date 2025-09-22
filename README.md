@@ -31,5 +31,10 @@ This query helps identify which directors consistently create financially succes
 
 This helps users quickly see the timeline of movie releases, which can be useful for analyzing trends or understanding how the catalog of films has developed over time.
 
+3.This query finds actors who have appeared in at least two movies, showing how many films they acted in, their total box office sales, and the average tickets sold across those films.
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/d3d2fa4e-32f2-4a75-83a2-72df12f043d4" />
+
+This helps identify which actors provide the most success for sales across multiple projects. Producers and studios can use this information to prioritize these higher earning actors in future films, ensuring stronger ticket sales and more of an audience appeal.
+
 ### Query Matrix
 ## Database Information
