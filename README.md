@@ -64,4 +64,15 @@ This helps highlight the most successful collaborations between directors and ac
 7. This query shows all movies with production budgets greater than $200 million, listing their titles and budgets in descending order.
    <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/8b0df179-0775-45b9-854c-ffdfd8a853ff" />
 This helps identify the most expensive films in the database, which can be useful when comparing them to less highly budgeted films.
+
+8.
+<img width="606" height="558" alt="Screenshot 2025-09-22 at 6 48 40 PM" src="https://github.com/user-attachments/assets/31fe85f2-7ca4-4ec2-9eba-da97de892495" />
+
+9.
+<img width="452" height="439" alt="Screenshot 2025-09-22 at 6 48 13 PM" src="https://github.com/user-attachments/assets/46a6b8be-8699-4512-a7d9-f2311351343a" />
+10.
+  <img width="545" height="476" alt="Screenshot 2025-09-22 at 6 47 36 PM" src="https://github.com/user-attachments/assets/3a13475f-0733-44f6-a46a-e4407ca41634" />
+
+
+
 ## Database Information
