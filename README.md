@@ -41,12 +41,12 @@ This query helps identify which directors consistently create financially succes
 
 This helps users quickly see the timeline of movie releases, which can be useful for analyzing trends or understanding how the catalog of films has developed over time.
 
-3.This query finds actors who have appeared in at least two movies, showing how many films they acted in, their total box office sales, and the average tickets sold across those films.
+3. This query finds actors who have appeared in at least two movies, showing how many films they acted in, their total box office sales, and the average tickets sold across those films.
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/d3d2fa4e-32f2-4a75-83a2-72df12f043d4" />
 
 This helps identify which actors provide the most success for sales across multiple projects. Producers and studios can use this information to prioritize these higher earning actors in future films, ensuring stronger ticket sales and more of an audience appeal.
 
-4.This query lists all actors along with how many years they’ve been acting, sorted so the most experienced actors appear first.
+4. This query lists all actors along with how many years they’ve been acting, sorted so the most experienced actors appear first.
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/b7f95389-57f2-496d-9c9a-e1fc05546fe9" />
 This allows managers or casting directors to quickly identify the most seasoned actors in the database.
 
@@ -56,7 +56,7 @@ This allows managers or casting directors to quickly identify the most seasoned 
 This analysis highlights which films were the most financially efficient, not just in terms of revenue but also relative to how much they cost to make. Studios and investors can use this information to learn which types of films deliver the strongest returns and to guide future budgeting and production decisions.
 
 
-6.This query shows director and actor pairs who have worked with eachother on a movie, showing how many films they worked on together and their combined total box office sales. The results are sorted so the most profitable partnerships appear at the top.
+6. This query shows director and actor pairs who have worked with eachother on a movie, showing how many films they worked on together and their combined total box office sales. The results are sorted so the most profitable partnerships appear at the top.
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/7a47f799-6c61-4c9e-bb28-c27dd460074f" />
 
 This helps highlight the most successful collaborations between directors and actors. Studios can use this information to see which partnerships produce strong financial results, which may inform casting and directing choices in future projects.
@@ -87,6 +87,6 @@ This query would be helpful for a manager who was looking to analyze the trends 
 ## Database Information
 <img width="663" height="444" alt="Screenshot 2025-09-22 at 7 40 02 PM" src="https://github.com/user-attachments/assets/a223698e-98a3-43de-80cc-789048af3570" />
 
-Please refer to br_wah54338
+Please refer to database br_wah54338
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
