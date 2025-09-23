@@ -71,12 +71,14 @@ This might be useful for a manager looking to analyze high-performing movies wit
 
 
 9. This query lists all titles, sales, and budgets of movies that earned more at the box office than the average total sales of all of the movies included in the data. 
-<img width="452" height="439" alt="Screenshot 2025-09-22 at 6 48 13 PM" src="https://github.com/user-attachments/assets/46a6b8be-8699-4512-a7d9-f2311351343a" />
+<img width="731" height="408" alt="Screenshot 2025-09-22 at 8 20 21 PM" src="https://github.com/user-attachments/assets/e000ed39-a6ed-4931-b085-a82e005cb8e6" />
+
 This might be helpful to a manager who is looking to analyze how different above-average movies' sales compare to their budgets.
 
 
 10.
-  <img width="545" height="476" alt="Screenshot 2025-09-22 at 6 47 36 PM" src="https://github.com/user-attachments/assets/3a13475f-0733-44f6-a46a-e4407ca41634" />
+ <img width="538" height="489" alt="Screenshot 2025-09-22 at 8 21 06 PM" src="https://github.com/user-attachments/assets/c9a43577-fe7f-446f-a46e-3cbdbba90b19" />
+
 
 
 
