@@ -1,6 +1,6 @@
 # MIST4610Project1
 ## Team name and Members
-Fantastic Four:
+Group 5:
 1) Tyler Meyer, [@tgm-UGA](https://github.com/tgm-UGA) 811444595
 2) Baye Wilson, [@baye-wilson](https://github.com/baye-wilson) 811737308
 3) Will Hooks, [@williamhooks912-byte](https://github.com/williamhooks912-byte) 811211871
