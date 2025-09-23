@@ -67,6 +67,7 @@ This helps identify the most expensive films in the database, which can be usefu
 
 8. This query finds each actor with the movie they earned the most from. Then, it joins the tables together and uses a correlated subquery to determine the highest total sales for that actor. Only the movies that match this maximum sales value for each actor are returned, and the results are ordered from highest to lowest grossing movies.
 <img width="606" height="558" alt="Screenshot 2025-09-22 at 6 48 40 PM" src="https://github.com/user-attachments/assets/31fe85f2-7ca4-4ec2-9eba-da97de892495" />
+
 This might be useful for a manager looking to analyze high-performing movies with high-performing actors- big names bring in big audiences, and big audiences bring in big sales. Additionally, the ordered nature of the results are easy to interpret and apply. 
 
 9. This query lists all titles, sales, budgets, and calculates the profit of movies that earned more at the box office than the average total sales of all of the movies included in the data. 
