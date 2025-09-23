@@ -70,14 +70,16 @@ This helps identify the most expensive films in the database, which can be usefu
 This might be useful for a manager looking to analyze high-performing movies with high-performing actors- big names bring in big audiences, and big audiences bring in big sales. Additionally, the ordered nature of the results are easy to interpret and apply. 
 
 
-9. This query lists all titles, sales, and budgets of movies that earned more at the box office than the average total sales of all of the movies included in the data. 
+9. This query lists all titles, sales, budgets, and calculates the profit of movies that earned more at the box office than the average total sales of all of the movies included in the data. 
 <img width="731" height="408" alt="Screenshot 2025-09-22 at 8 20 21 PM" src="https://github.com/user-attachments/assets/e000ed39-a6ed-4931-b085-a82e005cb8e6" />
 
-This might be helpful to a manager who is looking to analyze how different above-average movies' sales compare to their budgets.
+This might be helpful to a manager who is looking to analyze how different above-average movies' perform in comparison to their budgets.
 
 
-10.
+10. This query identifies directors whose movies have titles with more than one word in it. It shows the count of how many multi-word movie title each director has as well as the combined total sales of those movies. The results are grouped by direcors and sorted so that the highest-earning director is first.  
  <img width="538" height="489" alt="Screenshot 2025-09-22 at 8 21 06 PM" src="https://github.com/user-attachments/assets/c9a43577-fe7f-446f-a46e-3cbdbba90b19" />
+This query would be helpful for a manager who was looking to analyze the trends between multi-word movie titles and their performance. Additionally, a manager could identify trends a director has themselves, like a tendency to have multi-word movie titles perform well.
+ 
 
 
 
