@@ -87,6 +87,6 @@ This query would be helpful for a manager who was looking to analyze the trends 
 ## Database Information
 <img width="663" height="444" alt="Screenshot 2025-09-22 at 7 40 02 PM" src="https://github.com/user-attachments/assets/a223698e-98a3-43de-80cc-789048af3570" />
 
-Please refer to database br_wah54338
+Name of the database: br_wah54338
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
